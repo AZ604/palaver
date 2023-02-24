@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Palavar</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Anmelden</string>
+    <string name="register">Registiere dich</string>
+    <string name="rememberMe">Angemeldet bleiben</string>
+    <string name="wrong_password_or_username">Falscher Benutzername oder falsches Passwort</string>
+    <string name="FreundHinzufügenOderLöschen">Freund hinzufügen / löschen</string>
+    <string name="FreundHinzufügen">Freund hinzufügen</string>
+    <string name="FreundLöschen">Freund löschen</string>
+    <string name="SendMessage">Sende</string>
+    <string name="TextPlain">text/plain</string>
+    <string name="offlineMode">Offline Modus</string>
+    <string name="sendLocation">Sende Ort</string>
+    <string name="sendFile">Sende Datei</string>
+
+
+
+
+
+    //Commands
+    <string name="setNewFriendComm">1</string>
+    <string name="messageSendComm">3</string>
+    <string name="getConversationComm">4</string>
+    <string name="getFriendsComm">5</string>
+    <string name="registerComm">6</string>
+    <string name="validateUserComm">7</string>
+
+
+
+</resources>
